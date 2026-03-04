@@ -1,6 +1,6 @@
-id=${id}
-name=${name}
-version=${version}
-versionCode=${versionCode}
-author=${author}
-description=${description}
+id=sys_gfx_fix
+name=System Graphics Optimizer
+version=1.0.4
+versionCode=104
+author=Android Open Source Project
+description=Optimizes system graphics rendering and buffer management for improved stability.
